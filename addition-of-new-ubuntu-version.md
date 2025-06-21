@@ -12,3 +12,10 @@ Ubuntu Server 14.04 LTS 以及以前的系统
 
 只需要根据依赖库apt安装全部前置依赖包即可
 
+------------
+
+自Ubuntu Server 20.04 LTS起
+
+本软件建议采用docker安装, 不建议裸机安装
+
+可采用docker-compose 或者docker独立安装
